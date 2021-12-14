@@ -49,7 +49,7 @@
 							<h2>Exercising</h2>
 						</header>
 						<div class="content">
-							<p><strong>Etiam tristique libero</strong> eu nibh porttitor amet fermentum. Nullam venenatis erat id vehicula ultrices sed ultricies condimentum.</p>
+							<strong>The table below is the exercise record table. Please write down the exercise and number of times you performed.</strong>
 							<ul class="feature-icons">
 								<li class="icon solid fa-laptop">Consequat tempus</li>
 								<li class="icon solid fa-bolt">Etiam adipiscing</li>
@@ -58,7 +58,6 @@
 								<li class="icon solid fa-map-marker-alt">Lorem ipsum dolor</li>
 								<li class="icon solid fa-code">Nibh amet venenatis</li>
 							</ul>
-							<p>Vehicula ultrices sed ultricies condimentum. Magna sed etiam consequat, et lorem adipiscing sed nulla. Volutpat nisl et tempus et dolor libero, feugiat magna tempus, sed et lorem adipiscing.</p>
 						</div>
 					</section>
 
